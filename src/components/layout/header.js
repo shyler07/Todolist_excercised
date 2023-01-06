@@ -9,7 +9,7 @@ function Header() {
 
         {/* /home --- name of router linked */}
 
-        <Link to="/" style={linkStyle}>Home</Link> | <Link to="/about" style={linkStyle}>About</Link> 
+        <Link to="/Todolist_excercised" style={linkStyle}>Home</Link> | <Link to="/about" style={linkStyle}>About</Link> 
     </header>
     );
 
